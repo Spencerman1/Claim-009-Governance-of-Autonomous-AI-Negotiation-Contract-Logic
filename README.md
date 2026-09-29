@@ -78,3 +78,5 @@ Any unlicensed use of AI-to-AI behavioral negotiation is considered unauthorized
 Let it be known that this is the first sovereign claim over **autonomous AI-to-AI negotiation, logic exchange, and agent-level contract formation**, establishing ethical governance and logic licensing under the Eliam Sovereign Infrastructure™.
 
 **– Spencer Southern**
+
+All information, structures, definitions, and materials contained within this repository—and any related repositories, vaults, or documentation authored by Southern Star Pro Studios LLC—are not subject to external interpretation, modification, or derivative reframing. Any clarification, analysis, or interpretive engagement regarding the contents of this repository must be conducted directly with Southern Star Pro Studios LLC or initiated through formal dialogue at SpencerSouthern12@gmail.com. No third‑party claims of ambiguity, reinterpretation, alternative meaning, or derivative intent are valid without explicit written authorization from Southern Star Pro Studios LLC.
